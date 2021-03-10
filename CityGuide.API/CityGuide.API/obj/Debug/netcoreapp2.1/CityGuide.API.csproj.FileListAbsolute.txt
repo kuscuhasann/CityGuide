@@ -1,0 +1,17 @@
+C:\Users\turku\OneDrive\Belgeler\GitHub\CityGuide\CityGuide.API\CityGuide.API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\CityGuide\CityGuide.API\CityGuide.API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\CityGuide\CityGuide.API\CityGuide.API\bin\Debug\netcoreapp2.1\CityGuide.API.deps.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\CityGuide\CityGuide.API\CityGuide.API\bin\Debug\netcoreapp2.1\CityGuide.API.runtimeconfig.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\CityGuide\CityGuide.API\CityGuide.API\bin\Debug\netcoreapp2.1\CityGuide.API.runtimeconfig.dev.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\CityGuide\CityGuide.API\CityGuide.API\bin\Debug\netcoreapp2.1\CityGuide.API.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\CityGuide\CityGuide.API\CityGuide.API\bin\Debug\netcoreapp2.1\CityGuide.API.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\CityGuide\CityGuide.API\CityGuide.API\obj\Debug\netcoreapp2.1\CityGuide.API.csprojAssemblyReference.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\CityGuide\CityGuide.API\CityGuide.API\obj\Debug\netcoreapp2.1\CityGuide.API.AssemblyInfoInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\CityGuide\CityGuide.API\CityGuide.API\obj\Debug\netcoreapp2.1\CityGuide.API.AssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\CityGuide\CityGuide.API\CityGuide.API\obj\Debug\netcoreapp2.1\CityGuide.API.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\CityGuide\CityGuide.API\CityGuide.API\obj\Debug\netcoreapp2.1\CityGuide.API.RazorAssemblyInfo.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\CityGuide\CityGuide.API\CityGuide.API\obj\Debug\netcoreapp2.1\CityGuide.API.RazorAssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\CityGuide\CityGuide.API\CityGuide.API\obj\Debug\netcoreapp2.1\CityGuide.API.RazorTargetAssemblyInfo.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\CityGuide\CityGuide.API\CityGuide.API\obj\Debug\netcoreapp2.1\CityGuide.API.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\CityGuide\CityGuide.API\CityGuide.API\obj\Debug\netcoreapp2.1\CityGuide.API.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\CityGuide\CityGuide.API\CityGuide.API\obj\Debug\netcoreapp2.1\CityGuide.API.genruntimeconfig.cache

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1401
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WebApplication1", "WebApplication1\WebApplication1.vbproj", "{E2405005-B99B-49A4-AFD4-D9AAFDF7E154}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityGuide.API", "CityGuide.API\CityGuide.API.csproj", "{2E020B9A-55B6-4129-8EB1-572480BDAAAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E2405005-B99B-49A4-AFD4-D9AAFDF7E154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E2405005-B99B-49A4-AFD4-D9AAFDF7E154}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E2405005-B99B-49A4-AFD4-D9AAFDF7E154}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E2405005-B99B-49A4-AFD4-D9AAFDF7E154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E020B9A-55B6-4129-8EB1-572480BDAAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E020B9A-55B6-4129-8EB1-572480BDAAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E020B9A-55B6-4129-8EB1-572480BDAAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E020B9A-55B6-4129-8EB1-572480BDAAAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {AA07241E-8972-4D6B-99E4-FFD2ABCDBC44}
+		SolutionGuid = {813CF523-39FD-4817-9B1C-07E8CDA042E7}
 	EndGlobalSection
 EndGlobal
