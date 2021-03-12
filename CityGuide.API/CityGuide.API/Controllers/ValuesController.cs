@@ -18,7 +18,6 @@ namespace CityGuide.API.Controllers
         {
             _context = context;
         }
-
         // GET api/values
         [HttpGet]
         public async Task<ActionResult> GetValues()
