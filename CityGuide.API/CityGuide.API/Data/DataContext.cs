@@ -15,5 +15,8 @@ namespace CityGuide.API.Data
         }
         //Value sinifi ile veritabaninda ki Values tablosunun eşleştirilmesi.
         public DbSet<Value> Values { get; set; }
+        public DbSet<City> Cities { get; set; }
+        public DbSet<Photo> Photos { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }
