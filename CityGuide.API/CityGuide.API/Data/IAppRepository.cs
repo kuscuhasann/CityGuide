@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CityGuide.API.Data
 {
-    interface IAppRepository
+    public interface IAppRepository
     {
         void Add<T>(T entity) where T : class;
         void Delete<T>(T entity) where T : class;
