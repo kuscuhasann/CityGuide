@@ -28,5 +28,27 @@ namespace CityGuide.API.Controllers
             var citiesToReturn = _mapper.Map<List<CityForListDto>>(cities);
             return Ok(cities);
         }
+        [HttpPost]
+        [Route("add")]
+        public ActionResult Add([FromBody] CityForListDto city)
+        {
+            _appRepository.Add(city);
+            _appRepository.SaveAll();
+            return Ok(city);
+        }
+        [HttpGet("detail")]
+        public ActionResult GetCityById(int id) 
+        {
+            var city = _appRepository.GetCityById(id);
+            var cityToReturn = _mapper.Map<CityForDetailDto>(city);
+            return Ok(cityToReturn);
+        }
+
+        [HttpGet("photos")]
+        public ActionResult GetPhotosByCity(int cityId) 
+        {
+            var photos = _appRepository.GetPhotosByCity(cityId);
+            return Ok(photos);
+        }
     }
 }
